@@ -1,0 +1,19 @@
+{
+    "name": "Arrow Brainstorming",
+    "description": "Brainstorming on the fly",
+    "version": "0.3.5.2",
+    "offline_enabled": true,
+    "manifest_version": 2,
+    "app": {
+        "background": {
+            "scripts": ["chrome/background.js"]
+        }
+    },
+    "icons": {
+        "128": "/arrow.png"
+    },
+    "permissions": [
+        "storage",
+        "notifications"
+    ]
+}
