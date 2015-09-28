@@ -1,5 +1,11 @@
 app.js
 bootstrap.js
+file-explorer
+file-explorer/bootstrap.js
+file-explorer/index.html
+file-explorer/v1
+file-explorer/v2-alpha
+file-explorer/v2-beta
 index.html
 notes-taking-app
 notes-taking-app/bootstrap.js
