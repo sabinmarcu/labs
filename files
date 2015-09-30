@@ -1,4 +1,6 @@
+app.js
 bootstrap.js
+config.json
 file-explorer
 file-explorer/bootstrap.js
 file-explorer/index.html
