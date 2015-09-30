@@ -4,8 +4,11 @@ icons
 icons/_noindex
 icons/fullscreen-exit.png
 icons/fullscreen.png
+icons/index.html
+icons/readme.md
 icons/window-close.png
 icons/window-maximize.png
 icons/window-minimize.png
 icons/window-restore.png
 index.html
+readme.md
