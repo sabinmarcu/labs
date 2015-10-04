@@ -1,5 +1,7 @@
 bootstrap.js
+config.json
 index.html
+preview.jpg
 readme.md
 search-ui
 search-ui/_noindex
@@ -8,7 +10,9 @@ search-ui/app.js.map
 search-ui/chrome
 search-ui/chrome/bootstrap.js
 search-ui/chrome/chrome.js
+search-ui/chrome/config.json
 search-ui/chrome/icons
+search-ui/chrome/icons/config.json
 search-ui/chrome/icons/fullscreen-exit.png
 search-ui/chrome/icons/fullscreen.png
 search-ui/chrome/icons/window-close.png
@@ -18,6 +22,7 @@ search-ui/chrome/icons/window-restore.png
 search-ui/chrome/index.html
 search-ui/chrome.js
 search-ui/comments.json
+search-ui/config.json
 search-ui/index.html
 search-ui/main.css
 search-ui/manifest.json
@@ -28,7 +33,9 @@ sidebar-ui/app.js.map
 sidebar-ui/chrome
 sidebar-ui/chrome/bootstrap.js
 sidebar-ui/chrome/chrome.js
+sidebar-ui/chrome/config.json
 sidebar-ui/chrome/icons
+sidebar-ui/chrome/icons/config.json
 sidebar-ui/chrome/icons/fullscreen-exit.png
 sidebar-ui/chrome/icons/fullscreen.png
 sidebar-ui/chrome/icons/window-close.png
@@ -38,6 +45,7 @@ sidebar-ui/chrome/icons/window-restore.png
 sidebar-ui/chrome/index.html
 sidebar-ui/chrome.js
 sidebar-ui/comments.json
+sidebar-ui/config.json
 sidebar-ui/index.html
 sidebar-ui/main.css
 sidebar-ui/manifest.json

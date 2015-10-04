@@ -2,11 +2,16 @@ _noindex
 arrow.png
 chrome
 chrome/background.js
+chrome/config.json
+config.json
 index.html
 js
+js/config.json
 js/excanvas.js
 js/g.js
 manifest.json
 manifest.webapp
+preview.png
 socket.io
+socket.io/config.json
 socket.io/socket.io.js

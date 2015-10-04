@@ -1,6 +1,8 @@
 bootstrap.js
 chrome.js
+config.json
 icons
+icons/config.json
 icons/fullscreen-exit.png
 icons/fullscreen.png
 icons/window-close.png

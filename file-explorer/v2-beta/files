@@ -30,8 +30,10 @@ c08ac05ba2b82d983d6d.hot-update.json
 chrome
 chrome/bootstrap.js
 chrome/chrome.js
+chrome/config.json
 chrome/icons
 chrome/icons/_noindex
+chrome/icons/config.json
 chrome/icons/fullscreen-exit.png
 chrome/icons/fullscreen.png
 chrome/icons/index.html
@@ -43,8 +45,10 @@ chrome/icons/window-restore.png
 chrome/index.html
 chrome/readme.md
 comments.json
+config.json
 f228f1dea6cd84aa46d4.hot-update.json
 index.html
 main.css
 manifest.json
+preview.png
 readme.md

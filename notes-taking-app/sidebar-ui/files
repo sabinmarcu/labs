@@ -4,7 +4,9 @@ app.js.map
 chrome
 chrome/bootstrap.js
 chrome/chrome.js
+chrome/config.json
 chrome/icons
+chrome/icons/config.json
 chrome/icons/fullscreen-exit.png
 chrome/icons/fullscreen.png
 chrome/icons/window-close.png
@@ -14,6 +16,7 @@ chrome/icons/window-restore.png
 chrome/index.html
 chrome.js
 comments.json
+config.json
 index.html
 main.css
 manifest.json
