@@ -1,3 +1,7 @@
+120.png
+152.png
+512.png
+76.png
 app.js
 bootstrap.js
 config.json
@@ -280,6 +284,7 @@ file-explorer/v2-delta/main.css
 file-explorer/v2-delta/manifest.json
 file-explorer/v2-delta/preview.png
 file-explorer/v2-delta/readme.md
+icon.ico
 index.html
 notes-taking-app
 notes-taking-app/bootstrap.js
